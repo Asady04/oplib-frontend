@@ -15,7 +15,7 @@ export default function UserLayout({ children }: { children: React.ReactNode; })
   // Effect to check screen size on initial load for a better default.
   useEffect(() => {
     // We only want this to run on the client side
-    if (typeof window !== 'undefined' && window.innerWidth < 1024) {
+    if (typeof window !== "undefined" && window.innerWidth < 1024) {
       setIsSidebarPinned(false);
     }
   }, []);

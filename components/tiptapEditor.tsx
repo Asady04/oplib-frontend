@@ -53,7 +53,7 @@ const Toolbar = ({ editor }: { editor: Editor | null }) => {
       return;
     }
 
-    // The 'transaction' event fires on any change to the editor's state
+ 
     const handleUpdate = () => {
       forceUpdate();
     };

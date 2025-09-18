@@ -8,8 +8,6 @@ import { faCircleUser } from "@fortawesome/free-solid-svg-icons";
 
 export default function HeaderAdmin() {
   return (
-    // This component now only renders the user profile part.
-    // The "Good morning" message should be part of the page's banner.
     <div className="flex items-center font-bold text-xl gap-4">
       <span>Admin</span>
       <Avatar

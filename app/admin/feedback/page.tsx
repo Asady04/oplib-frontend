@@ -60,7 +60,7 @@ export default function FeedbackPage() {
 
       {/* Feedback Content */}
       <div className="bg-white rounded-lg shadow-lg p-4">
-          {/* This wrapper div makes ONLY the content scrollable on small screens if it's too wide */}
+          {/* This wrapper div makes ONLY the content scrollable on small screens if it&apos;s too wide */}
           <div className="overflow-x-auto">
               {/* Your ContentFeedback component goes here. */}
               <ContentFeedback />
