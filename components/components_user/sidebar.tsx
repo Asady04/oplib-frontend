@@ -58,7 +58,7 @@ const ExpandedMenu = ({ onLinkClick }: { onLinkClick?: () => void }) => (
          <div className="pl-8 flex flex-col space-y-2 text-sm">
            <NextLink href="/user/room-reservation" onClick={onLinkClick} className="text-white hover:font-bold">Room Reservation</NextLink>
            <NextLink href="/user/journal-upload" onClick={onLinkClick} className="text-white hover:font-bold">Upload Journal</NextLink>
-           <NextLink href="/user/lecture-book-upload" onClick={onLinkClick} className="text-white hover:font-bold">Upload Lecture's Book</NextLink>
+           <NextLink href="/user/lecture-book-upload" onClick={onLinkClick} className="text-white hover:font-bold">Upload Lecture&apos;s Book</NextLink>
          </div>
       </AccordionItem>
        <AccordionItem

@@ -65,7 +65,7 @@ export default function ModalEditJournal() {
                   </div>
                   <div className="w-full md:w-3/4 grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <Input label="Title" placeholder="Enter title" />
-                    <Input label="Author's Name" placeholder="Enter author's name" />
+                    <Input label="Author&apos;s Name" placeholder="Enter author&apos;s name" />
                     <Input label="Publisher" placeholder="Enter publisher" />
                     <Input type="number" label="Year" placeholder="e.g., 2024" />
                   </div>

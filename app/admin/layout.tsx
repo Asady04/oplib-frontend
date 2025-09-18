@@ -63,7 +63,7 @@ const SharedAdminBanner = () => {
               Good morning, Aliza Nurfitrian
             </h1>
             <p className="mt-2 text-sm sm:text-base text-gray-200">
-              Here's what's happening at Open Library Telkom University today!
+              Here&apos;s what&apos;s happening at Open Library Telkom University today!
             </p>
           </div>
 

@@ -84,7 +84,7 @@ export default function ModalEditNews() {
                   </div>
                   <div className="w-full md:w-2/3 grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <Input label="News Headlines" placeholder="Add news headlines" />
-                    <Input label="Writer" placeholder="Enter writer's name" />
+                    <Input label="Writer" placeholder="Enter writer&apos;s name" />
                     <DatePicker label="Date" />
                     <Select label="Status" placeholder="Select a status">
                         <SelectItem key="pending">Pending</SelectItem>

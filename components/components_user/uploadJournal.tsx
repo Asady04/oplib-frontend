@@ -31,7 +31,7 @@ export default function UploadJournal() {
         </div>
         <div className="bg-gray-50 p-5 rounded-md border space-y-4">
           <h4 className="text-lg font-semibold text-gray-700">Document</h4>
-            <Input label="Title" placeholder="Insert Your Book's Title" />
+            <Input label="Title" placeholder="Insert Your Book&apos;s Title" />
             <Select label="Subject" placeholder="Select your subject">
                <SelectItem key="1">Subject 1</SelectItem>
             </Select>

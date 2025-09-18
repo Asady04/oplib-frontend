@@ -34,7 +34,7 @@ export default function LectureBook() {
     <section className="bg-white shadow-md rounded-lg p-5 space-y-4">
       <h4 className="flex gap-2 text-dark-red text-2xl font-bold items-center">
         <FontAwesomeIcon icon={faFileArrowUp} />
-        Lecture's Book Upload
+        Lecture&apos;s Book Upload
       </h4>
       <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
           <Input

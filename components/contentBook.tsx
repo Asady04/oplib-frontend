@@ -83,7 +83,7 @@ const BookOrJournalDetail = ({ isBook }: { isBook: boolean }) => (
         </div>
         <AbstractSection_Book>
             <p>As a master teacher, John Santrock connects students to current research and real-world application...</p>
-            <p>This commitment is reflected in the text's comprehensive coverage...</p>
+            <p>This commitment is reflected in the text&apos;s comprehensive coverage...</p>
         </AbstractSection_Book>
     </section>
 );

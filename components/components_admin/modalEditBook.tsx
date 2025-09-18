@@ -65,7 +65,7 @@ export default function ModalEditBook() {
                   </div>
                   <div className="w-full md:w-3/4 grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <Input label="Title Book" placeholder="Enter title book" />
-                    <Input label="Author's Name" placeholder="Enter author's name" />
+                    <Input label="Author&apos;s Name" placeholder="Enter author&apos;s name" />
                     <Input label="Editor" placeholder="Enter editor" />
                     <Input label="Translator" placeholder="Enter translator" />
                   </div>
